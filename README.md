@@ -2,7 +2,7 @@
 
 #### I'm Tevis 
 
-- 🔭 I’m currently working on an app that connects people with local farmers.
+- 🔭 I’m currently working on an app that connects people with local farmers that practice organic and regenerative agriculture practices.
 - 🌱 I’m currently learning the MERN tech stack.
 - 👯 I’m looking to contribute and collaborate on React projects, Web3 technologies, and any open source project with social utility.
 - 📫 How to reach me: tevisreilly1@gmail.com
