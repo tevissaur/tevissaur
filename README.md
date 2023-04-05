@@ -3,8 +3,8 @@
 #### I'm Tevis 
 
 - 🔭 I’m currently working on an online [fantasy world builder](https://github.com/tevissaur/world-builder).
-- 🌱 I’m currently learning the MERN tech stack.
-- 👯 I’m looking to contribute and collaborate on React projects, Web3 technologies, and any open source project with social utility.
+- 🌱 I’m currently learning the Next.js and .NET/C# frameworks, and deploying web apps on Netlify and Azure.
+- 👯 I’m looking to contribute and collaborate on web technologies of all kinds.
 - 📫 How to reach me: tevisreilly1@gmail.com
 <!--
 **tevissaur/tevissaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
