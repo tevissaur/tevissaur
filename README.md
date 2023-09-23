@@ -2,8 +2,8 @@
 
 #### I'm Tevis 
 
-- 🔭 I’m currently working on an online [fantasy world builder](https://github.com/tevissaur/world-builder).
-- 🌱 I’m currently learning the Next.js and .NET/C# frameworks, and deploying web apps on Netlify and Azure.
+- 🔭 I’m currently working on a [landing site for homebrew TTRPG content](https://github.com/tevissaur/world-builder).
+- 🌱 I’m currently learning the Next.js and .NET/C# frameworks, and deploying web apps on Netlify, Vercel, and Azure.
 - 👯 I’m looking to contribute and collaborate on web technologies of all kinds.
 - 📫 How to reach me: tevisreilly1@gmail.com
 <!--
