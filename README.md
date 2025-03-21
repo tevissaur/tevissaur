@@ -1,8 +1,4 @@
-### Hi there 👋 
-
-#### I'm Tevis 
-
-- 🔭 I’m currently working on a [landing site for homebrew TTRPG content](https://www.known-unknown.zone).
+I code like the rest of ya.
 <!--
 **tevissaur/tevissaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
